@@ -1,0 +1,11 @@
+h1{
+    font-size: 50px;
+    color: #2c3e50;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.conteudo-principal {
+    height: 380px;
+    width: 260px;
+    
+}

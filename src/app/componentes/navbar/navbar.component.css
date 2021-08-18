@@ -1,0 +1,38 @@
+.navSuperior{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    background-color: #3498db;
+    font-family: 'Roboto', sans-serif;
+  
+
+}
+
+.navSuperior a {
+    color: #ecf0f1;
+    font-size: 32px;
+}
+
+
+.logoEsquerda a{
+    margin: 5px;
+    font-size: 16px;
+    color: #ecf0f1;
+}
+
+.navInferior{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    height: 10vh;
+    background-color: #ecf0f1;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navInferior  a {
+color: #3498db; 
+    margin: 15px;
+    font-weight: bold;
+}
