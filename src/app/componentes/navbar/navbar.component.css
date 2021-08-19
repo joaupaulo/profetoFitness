@@ -14,6 +14,9 @@
     font-size: 32px;
 }
 
+.navInferior div a {
+    opacity: 0,5;
+}
 
 .logoEsquerda a{
     margin: 5px;

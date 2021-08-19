@@ -1,0 +1,46 @@
+.conteudoInferior{
+    display: flex;
+align-items: center;    
+justify-content: center;
+height: 100vh;
+text-align: center;
+font-family: 'Roboto', sans-serif;    
+}
+
+.conteudoInferior div h3 {
+    width: 600px;
+    font-weight: lighter;
+}
+
+.conteudoCentro{
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+}
+
+
+
+.conteudoCentro h3{
+    display: flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.meuBotao {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.buttoninferior{
+    padding: 20px 20px;
+    border:5px;
+    border-radius: 5px;
+    margin-top: 40px;
+    background-color: #3498db;
+text-align: center;
+font-weight:bold;
+}
